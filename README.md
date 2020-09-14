@@ -1,2 +1,3 @@
-# exel
+# excel
+
 Pure Javascript
