@@ -6,6 +6,7 @@
 .idea
 .DS_Store
 dist
+.vscode
 
 # User-specific files
 *.rsuser
